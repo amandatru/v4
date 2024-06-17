@@ -1,0 +1,174 @@
+{
+  "selectedTemplate": 6,
+  "headings": {
+    "projects": "Projects",
+    "education": "Education",
+    "work": "Work Experience",
+    "skills": "Skills",
+    "awards": "Certifications"
+  },
+  "basics": {
+    "name": "Amanda Truong",
+    "email": "amandamtruong@gmail.com",
+    "phone": "281-736-3481",
+    "website": "amandamtruong.com",
+    "location": {
+      "address": "Plano, Texas"
+    }
+  },
+  "education": [
+    {
+      "institution": "University of Texas at Dallas",
+      "location": "Richardson, Texas",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "startDate": "Jun 2014",
+      "endDate": "May 2018",
+      "gpa": ""
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Engineered scalable microservices to modernize the credit card data pipeline, enabling real-time event processing and enhancing data-driven decision-making in downstream systems",
+        "Leveraged technologies such as Java, Spring Boot, Kafka, Docker, PostgreSQL, Cassandra, Oracle, and gRPC",
+        "Developed resusable components and frameworks to streamline ingesting new event types",
+        "Collaborated with cross-functional teams for production deployments, debugging, and integration",
+        "Facilitated app migration onto a newer cloud platform"
+      ],
+      "company": "American Express",
+      "position": "Software Engineer II",
+      "location": "Plano, TX",
+      "startDate": "August 2022",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Architected and developed microservices utilizing Spring Boot, Kafka, Cloudfoundry, and Cassandra, replacing legacy monolith system – servicing 20,000+ daily credit card applications",
+        "Collaborated with product and technical teams from other Fortune 500 companies to build external-facing REST APIs, facilitating successful co-branded product launches",
+        "Implemented multi-layer encryption to meet partner-specific security requirements for co-branded Chase credit cards",
+        "Created Splunk alerts and dashboards for efficient monitoring services in production",
+        "Managed production deployments and ensured compliance with regulation and approval processes"
+      ],
+      "company": "JPMorgan Chase & Co.",
+      "position": "Software Engineer II",
+      "location": "Plano, Texas",
+      "startDate": "March 2020",
+      "endDate": "August 2022"
+    },
+    {
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "Jun 2018",
+      "highlights": [
+        "Developed features for a securities trading platform processing $1B in daily trades",
+        "Built APIs to enable integration of external customer applications with the trading platform",
+        "Created comprehensive automation test suites for APIs, UI functionality, and end-to-end testing with Selenide and Cucumber",
+        "Led release testing efforts by organizing the full regression of the application, multi-user testing, and supporting deployment to production",
+        "Reduced tedious manual testing efforts by creating an automated shakeout script that runs as part of a Jenkins job before and after business hours"
+      ],
+      "company": "Fannie Mae",
+      "location": "Plano, TX",
+      "endDate": "March 2020"
+    },
+    {
+      "highlights": [
+        "Revamped a BI reporting application using iText, Java, Javascript, Angular, and SQL",
+        "Reduced dependency on third-party software, cutting costs and improving system efficiency"
+      ],
+      "company": "American Express",
+      "position": "Software Engineering Intern",
+      "location": "Phoenix, Arizona",
+      "startDate": "May 2017",
+      "endDate": "Aug 2017"
+    },
+    {
+      "highlights": [
+        "Developed dashboard web pages and notifications using Splunk, XML, Python, SQL for members of the IP Capacity Engineering team to track real-time network utilization data",
+        "Collected requirements and engaged in iterative feedback to customize dashboards for each team member"
+      ],
+      "company": "Verizon",
+      "position": "Network Engineering Intern",
+      "location": "Silver Spring, Maryland",
+      "startDate": "May 2016",
+      "endDate": "Aug 2016"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Java",
+        "Python"
+      ],
+      "name": "Languages"
+    },
+    {
+      "keywords": [
+        "Kafka",
+        "REST APIs",
+        "SOAP",
+        "gRPC"
+      ],
+      "name": "Technologies"
+    },
+    {
+      "keywords": [
+        "Spring Boot",
+        "Spring",
+        "Selenium/Selenide/Cucumber"
+      ],
+      "name": "Frameworks"
+    },
+    {
+      "keywords": [
+        "AWS",
+        "Cloud Foundry"
+      ],
+      "name": "Cloud"
+    },
+    {
+      "keywords": [
+        "Cassandra",
+        "Firebase",
+        "Oracle",
+        "PostgreSQL"
+      ],
+      "name": "Data Storage"
+    },
+    {
+      "keywords": [
+        "Git",
+        "Bitbucket",
+        "Splunk",
+        "Dynatrace",
+        "Kibana",
+        "Grafana",
+        "Jenkins"
+      ],
+      "name": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Certified Developer - Associate",
+      "summary": "Demonstrates proficiency in developing, deploying, and debugging cloud-based applications using AWS"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
