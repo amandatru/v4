@@ -22,7 +22,7 @@
       "location": "Richardson, Texas",
       "area": "Computer Science",
       "studyType": "BS",
-      "startDate": "Jun 2014",
+      "startDate": "June 2014",
       "endDate": "May 2018",
       "gpa": ""
     }
@@ -30,7 +30,7 @@
   "work": [
     {
       "highlights": [
-        "Engineered scalable microservices to modernize the credit card data pipeline, enabling real-time event processing and enhancing data-driven decision-making in downstream systems",
+        "Engineered microservices to modernize the credit card data pipeline, enabling real-time event ingestion to drive decision-making and analytical processes",
         "Leveraged technologies such as Java, Spring Boot, Kafka, Docker, PostgreSQL, Cassandra, Oracle, and gRPC",
         "Developed resusable components and frameworks to streamline ingesting new event types",
         "Collaborated with cross-functional teams for production deployments, debugging, and integration",
@@ -38,7 +38,7 @@
       ],
       "company": "American Express",
       "position": "Software Engineer II",
-      "location": "Plano, TX",
+      "location": "Plano, Texas",
       "startDate": "August 2022",
       "endDate": "Present"
     },
@@ -59,7 +59,7 @@
     {
       "position": "Software Engineer",
       "website": "",
-      "startDate": "Jun 2018",
+      "startDate": "June 2018",
       "highlights": [
         "Developed features for a securities trading platform processing $1B in daily trades",
         "Built APIs to enable integration of external customer applications with the trading platform",
@@ -68,7 +68,7 @@
         "Reduced tedious manual testing efforts by creating an automated shakeout script that runs as part of a Jenkins job before and after business hours"
       ],
       "company": "Fannie Mae",
-      "location": "Plano, TX",
+      "location": "Plano, Texas",
       "endDate": "March 2020"
     },
     {
@@ -80,7 +80,7 @@
       "position": "Software Engineering Intern",
       "location": "Phoenix, Arizona",
       "startDate": "May 2017",
-      "endDate": "Aug 2017"
+      "endDate": "August 2017"
     },
     {
       "highlights": [

@@ -7,7 +7,7 @@ range: 'August 2022 - Present'
 url: 'https://www.americanexpress.com/'
 ---
 
-- Engineered scalable microservices to modernize the credit card data pipeline, enabling real-time event processing and enhancing data-driven decision-making in downstream systems
+- Engineered microservices to modernize the credit card data pipeline, enabling real-time event ingestion to drive decision-making and analytical processes
 - Leveraged technologies such as Java, Spring Boot, Kafka, Docker, PostgreSQL, Cassandra, Oracle, and gRPC
 - Developed resusable components and frameworks to streamline ingesting new event types
 - Collaborated with other teams for prod deployments, debugging, integration of components developed by other teams, and decisioning on data requirements
